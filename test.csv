@@ -1,0 +1,11 @@
+department_name,name,email,status
+Engineering,John Doe,john.doe@example.com,Active
+Marketing,Jane Smith,jane.smith@example.com,Inactive
+HR,Bob Johnson,bob.johnson@example.com,Active
+Sales,Alice Brown,alice.brown@example.com,Active
+Finance,Charlie Davis,charlie.davis@example.com,Inactive
+Engineering,Emily White,emily.white@example.com,Active
+Marketing,David Wilson,david.wilsonexample.com,Inactive
+HR,Susan Lee,susan.lee@example.com,Active
+Finance,Michael Green,michael.green@example.com,Active
+Finance,Olivia Adams,olivia.adams@example.com,Inactive
