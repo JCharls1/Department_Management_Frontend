@@ -52,6 +52,8 @@ In this project I used Nextjs and tailwindcss for the front end and made API end
 
 ![screenshot](./screenshots/11th.png)<br/>
 
+If everythin goes right the employees will be put to their corresponding departments.
+
 ![screenshot](./screenshots/12th.png)<br/>
 
 
