@@ -6,7 +6,7 @@ export async function updateStatus(departmentName, employeeName, status){
     }
 
     console.log(requestData);
-    await fetch('http://127.0.0.1:5000/api/department/employee/status', {
+    await fetch('https://flask-backend-department.vercel.app/api/department/employee/status', {
         method: 'PUT',
         headers: {
             'Content-Type': 'application/json',

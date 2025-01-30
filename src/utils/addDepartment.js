@@ -13,7 +13,7 @@ export async function addDepartment(department_name, department_description) {
     };
 
     // Step 4: Send POST request
-    await fetch('http://127.0.0.1:5000/api', {
+    await fetch('https://flask-backend-department.vercel.app/api', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',

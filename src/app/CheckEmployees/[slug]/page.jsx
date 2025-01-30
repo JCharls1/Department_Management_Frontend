@@ -22,7 +22,7 @@ export default async function page({params}){
                 <Sidebar />
                 <div className="flex justify-center w-full ">
                     <div className="flex flex-col gap-8 row-start-2 items-center  w-3/4 p-4">
-                        <h1>{slug}</h1>
+                        <h1>Department: {slug}</h1>
                         <div className="w-full max-h-[556px] overflow-y-auto border border-gray-300 p-2 flex flex-col items-center">
                             {data.employees.map(employee => (
                                 <div key={employee.employee_id} className="w-full flex justify-center p-1">

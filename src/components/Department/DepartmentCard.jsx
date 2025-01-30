@@ -10,7 +10,7 @@ export default function DepartmentCard(props) {
 
     async function deleteDepartment(){
 
-        await fetch('http://127.0.0.1:5000/api/department', {
+        await fetch('https://flask-backend-department.vercel.app/api/department', {
             method: 'DELETE',
             headers: {
                 'Content-Type': 'application/json',
