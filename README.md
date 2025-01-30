@@ -10,6 +10,7 @@ In this project I used Nextjs and tailwindcss for the front end and made API end
 2. If you click at "Check Employees" button you will be put to Employees and Add Employees section
 
 <br/>
+
 ![screenshot](./screenshots/2nd.png)<br/>
 
 3. In here you can fill up a form to add a new Employee
